@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/nic_launcher.png",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/app/src/main/res/drawable-mdpi/nic_launcher.png"
+    },
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\nic_launcher.png",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\src\\main\\res\\drawable-mdpi\\nic_launcher.png"
+    }
+]

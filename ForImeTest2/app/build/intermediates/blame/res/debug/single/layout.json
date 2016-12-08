@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/D:\\ForImeTest\\app\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "/Users/dpyang/Documents/Project/ForImeTest2/app/build/intermediates/res/merged/debug/layout/second.xml",
+        "source": "/Users/dpyang/Documents/Project/ForImeTest2/app/src/main/res/layout/second.xml"
+    }
+]
